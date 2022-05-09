@@ -22,5 +22,5 @@
 <div>   
   <a href="https://www.instagram.com/paulo_230" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
-   ![Snake animation](https://github.com/PauloRReis/PauloRReis/actions/runs/2297314156)
+   ![Snake animation](https://github.com/PauloRReis/PauloRReis/blob/output/github-contribution-grid-snake.svg)
 </div>
